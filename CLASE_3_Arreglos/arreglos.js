@@ -29,6 +29,8 @@ if(carrera.toLowerCase() == "qfb" || "quimico" || "farmacologo");{
   document.write("Wow, yo estudié lo mismo!");
 } */
 /* 
+
+
 Cálculo del área de un triángulo isóceles
 
 function areaTriangulo(altura, base){

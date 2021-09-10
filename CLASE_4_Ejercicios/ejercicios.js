@@ -19,14 +19,6 @@ function aritmetica(num1, num2){
 }
 aritmetica(); */
 
-//Contar letras en un string
-/* function contadorLetras(texto){
-  let contador = 0;
-  for(let i = 0; i < texto.length; i++){
-    contador++;
-    console.log(contador);
-  }
-}
-contadorLetras(perro); */
+
 
 

@@ -16,10 +16,10 @@ for(let i = 0; i < frutas.length; i++){
 
 //Escribe una funcion que convierta la tempereatura grados celcius a Kelvin
 
-function convertidorTemperatura(temperaturaCelcius){
+/* function convertidorTemperatura(temperaturaCelcius){
   temperaturaCelcius = parseInt(prompt("Ingrese la temperatura a convertir"));
   let temperaturaKelvin = temperaturaCelcius + 273;
   document.write(`La temperatura solicita es ${temperaturaKelvin} K`);
 }
 convertidorTemperatura();
-
+ */
